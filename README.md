@@ -1,5 +1,5 @@
-## Project for EPID 637
-# Opioid distributing behavior in Michigan: a network analysis
+# Project for EPID 637
+## Opioid distributing behavior in Michigan: a network analysis
 
 In this project, we sought to address the following aims: 
 (1) examine the structure of the opioid distribution network overall in the State of Michigan, 
@@ -10,6 +10,6 @@ To address these objectives, I used a netowrk analysis approach to analyze opiat
 
 Motivation for this research: Opioid overdoses in Michigan increased by a factor of 18 from 1999 to 2018, accounting for 2,599 deahts due to opioids overdoses in 2018 (Michigan.gov, 2022). 
 
-# References
+### References
 Michigan.gov. (2022). Opioid Resources. https://www.michigan.gov/opioids
 The Washington Post. (2020). Drilling into the DEA's pain pill database. Washington Post. https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/

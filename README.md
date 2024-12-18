@@ -8,7 +8,7 @@ In this project, I sought to address the following aims:
 
 To address these objectives, I used a network analysis approach to analyze opiate transaction-level data from the Washington Post Drug Enforcement Administration (DEA) public-use database (The Washington Post, 2020). 
 
-Motivation for this research: Opioid overdoses in Michigan increased by a factor of 18 from 1999 to 2018, accounting for 2,599 deahts due to opioids overdoses in 2018 (Michigan.gov, 2022). 
+Motivation for this research: Opioid overdoses in Michigan increased by a factor of 18 from 1999 to 2018, alongside 2,599 deaths due to opioid overdoses in 2018 (Michigan.gov, 2022). 
 
 ### References
 Michigan.gov. (2022). Opioid Resources. https://www.michigan.gov/opioids
